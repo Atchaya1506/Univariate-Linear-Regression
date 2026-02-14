@@ -43,6 +43,7 @@ plt.scatter(x,y)
 plt.plot([min(x),max(x)],[min(y_pred),max(y_pred)],color='red')
 plt.show()
 
+
 ```
 ## Output
 <img width="1018" height="755" alt="Screenshot 2025-12-17 091811" src="https://github.com/user-attachments/assets/52363a7b-bdd2-433c-8476-dc5a4c11e1b5" />
